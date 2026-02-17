@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("Hello,:streamlit: Streamlit!")
+st.title("Hello, Streamlit!")
 st.write("Welcome to your first :streamlit: app.")
 st.text("This is a simple example to get you started with Streamlit.")
 
